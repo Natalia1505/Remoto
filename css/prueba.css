@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.fondoMenu{
+    background: #ff00ff;
+    color: black;
+}
